@@ -48,8 +48,7 @@
 
 ## TODO
 
-✅ `UniICL-760K` Dataset Released.
-\\
+✅ `UniICL-760K` Dataset Released.  
 ⏳ Inference & Training code.
 
 ## Highlights
