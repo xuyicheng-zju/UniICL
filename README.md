@@ -48,9 +48,11 @@
 
 ## TODO
 
-- [✅] Model weights.
-- [✅] Datasets.
-- [ ] Inference & training code.
+- ✅ UniICL model weights.
+- ✅ `UniICL-760K`.
+- ✅ `UniICL-Bench`.
+- ⏳ Inference code.
+- ⏳ Training code.
 
 ## Highlights
 
