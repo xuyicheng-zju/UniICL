@@ -1,0 +1,11 @@
+{
+  "d_backbone": 3584,
+  "d_capm": 768,
+  "num_probes": 32,
+  "cross_attn_heads": 8,
+  "operator_rank": 64,
+  "op_gain": 0.1,
+  "num_inject_layers": 28,
+  "dropout": 0.0,
+  "detach_operator_from_facets": false
+}

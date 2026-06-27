@@ -1,0 +1,1162 @@
+[
+  {
+    "id": 63,
+    "type": "Long",
+    "original_t2i_prompt": "A whimsical 3D render of a small robot sitting on a bench in a park, autumn leaves on the ground, soft daylight, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_63_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the season to winter: replace autumn leaves with a light layer of snow while keeping the bench and park layout.",
+        "reference_image": "images/Chain-of-Editing/sample_63_1.jpg"
+      },
+      {
+        "instruction": "Put a knitted scarf around the robot’s neck, bright red.",
+        "reference_image": "images/Chain-of-Editing/sample_63_2.jpg"
+      },
+      {
+        "instruction": "Add gentle falling snowflakes in the foreground.",
+        "reference_image": "images/Chain-of-Editing/sample_63_3.jpg"
+      },
+      {
+        "instruction": "Add a faint wet sheen on the robot’s metal surfaces only where snowflakes would melt on contact, and make the red scarf fibers look slightly damp at the edges without changing the snowfall density.",
+        "reference_image": "images/Chain-of-Editing/sample_63_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "type": "Long",
+    "original_t2i_prompt": "A high-end fashion editorial photo: a model in a minimalist studio wearing a plain white dress, strong directional light, crisp shadows, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_64_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the plain white dress into a structured black dress with subtle pleats.",
+        "reference_image": "images/Chain-of-Editing/sample_64_1.jpg"
+      },
+      {
+        "instruction": "Add a wide-brim hat matching the black fabric tone.",
+        "reference_image": "images/Chain-of-Editing/sample_64_2.jpg"
+      },
+      {
+        "instruction": "Change the background from plain studio to a textured charcoal-gray wall.",
+        "reference_image": "images/Chain-of-Editing/sample_64_3.jpg"
+      },
+      {
+        "instruction": "Add a single silver brooch pinned to one pleat that catches the directional light and casts a tiny sharp shadow onto the pleated fabric, ensuring the brooch placement makes sense with the pleat structure.",
+        "reference_image": "images/Chain-of-Editing/sample_64_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "type": "Long",
+    "original_t2i_prompt": "A bright outdoor photo of a wooden picnic table in a garden with a vase of daisies and a glass of iced tea. Sunny midday, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_65_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the lighting to cloudy soft light while keeping the garden setting.",
+        "reference_image": "images/Chain-of-Editing/sample_65_1.jpg"
+      },
+      {
+        "instruction": "Replace the daisies with lavender stems in the vase.",
+        "reference_image": "images/Chain-of-Editing/sample_65_2.jpg"
+      },
+      {
+        "instruction": "Add a slice of lemon floating in the iced tea glass.",
+        "reference_image": "images/Chain-of-Editing/sample_65_3.jpg"
+      },
+      {
+        "instruction": "Add a faint rainbow-like caustic pattern on the table from the iced tea glass and lemon slice, consistent with cloudy soft light (subtle, not overly bright), without altering the lavender arrangement.",
+        "reference_image": "images/Chain-of-Editing/sample_65_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "type": "Long",
+    "original_t2i_prompt": "A detailed pen-and-ink architectural sketch of a small bridge over a canal, with buildings in the background. Crosshatching, monochrome, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_66_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Add a rowboat under the bridge using the same pen-and-ink style.",
+        "reference_image": "images/Chain-of-Editing/sample_66_1.jpg"
+      },
+      {
+        "instruction": "Add two street lamps on the bridge, one on each side.",
+        "reference_image": "images/Chain-of-Editing/sample_66_2.jpg"
+      },
+      {
+        "instruction": "Introduce a light wash of sepia tone over the entire sketch while preserving ink lines.",
+        "reference_image": "images/Chain-of-Editing/sample_66_3.jpg"
+      },
+      {
+        "instruction": "Make the street lamps appear lit by adding a soft sepia glow halo that subtly brightens nearby crosshatching on the bridge railing, while keeping the rowboat and buildings consistent with the toned ink style.",
+        "reference_image": "images/Chain-of-Editing/sample_66_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "type": "Long",
+    "original_t2i_prompt": "A clean studio photo of a pair of sneakers on a seamless background, soft shadow, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_71_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the sneakers color to matte navy with white soles.",
+        "reference_image": "images/Chain-of-Editing/sample_71_1.jpg"
+      },
+      {
+        "instruction": "Add a subtle sprinkle of sand around the shoes on the floor.",
+        "reference_image": "images/Chain-of-Editing/sample_71_2.jpg"
+      },
+      {
+        "instruction": "Change the background from plain white to a pale sky-blue gradient.",
+        "reference_image": "images/Chain-of-Editing/sample_71_3.jpg"
+      },
+      {
+        "instruction": "Add a faint footprint impression in the sand that matches the sneaker outsole tread pattern and direction, implying one step was taken without moving the sneakers themselves.",
+        "reference_image": "images/Chain-of-Editing/sample_71_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "type": "Long",
+    "original_t2i_prompt": "A realistic photo of a bowl of fresh fruit on a kitchen island: apples, bananas, grapes, bright daylight, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_73_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Replace the bananas with ripe peaches while keeping the bowl and composition.",
+        "reference_image": "images/Chain-of-Editing/sample_73_1.jpg"
+      },
+      {
+        "instruction": "Change the daylight to warm indoor evening light from overhead.",
+        "reference_image": "images/Chain-of-Editing/sample_73_2.jpg"
+      },
+      {
+        "instruction": "Add a linen napkin folded beside the bowl.",
+        "reference_image": "images/Chain-of-Editing/sample_73_3.jpg"
+      },
+      {
+        "instruction": "Add a subtle specular highlight on the grapes that matches the overhead evening light and make a faint peach fuzz texture visible on the peaches only where the highlight grazes them, without changing the napkin fold.",
+        "reference_image": "images/Chain-of-Editing/sample_73_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "type": "Long",
+    "original_t2i_prompt": "A wide-angle interior photo of a small bookstore: wooden shelves, a reading nook chair, and a front window. Neutral daylight, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_74_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the reading nook chair from fabric to a brown leather armchair with visible creases.",
+        "reference_image": "images/Chain-of-Editing/sample_74_1.jpg"
+      },
+      {
+        "instruction": "Add a floor lamp next to the chair with the lamp turned on warm.",
+        "reference_image": "images/Chain-of-Editing/sample_74_2.jpg"
+      },
+      {
+        "instruction": "Change the overall scene to rainy weather outside the front window (visible droplets).",
+        "reference_image": "images/Chain-of-Editing/sample_74_3.jpg"
+      },
+      {
+        "instruction": "Make the warm lamp create a cozy pool of light that reflects subtly on the leather creases and contrasts with the cool rainy window light, ensuring both light sources remain distinct and physically consistent.",
+        "reference_image": "images/Chain-of-Editing/sample_74_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "type": "Long",
+    "original_t2i_prompt": "A realistic portrait of a young adult wearing a plain gray sweater, seated by a window with soft daylight, neutral background, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_76_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the gray sweater to a cable-knit cream sweater with visible knit detail.",
+        "reference_image": "images/Chain-of-Editing/sample_76_1.jpg"
+      },
+      {
+        "instruction": "Add a ceramic mug held in both hands, steam rising.",
+        "reference_image": "images/Chain-of-Editing/sample_76_2.jpg"
+      },
+      {
+        "instruction": "Change the daylight to a cooler, cloudy light while keeping the same window position.",
+        "reference_image": "images/Chain-of-Editing/sample_76_3.jpg"
+      },
+      {
+        "instruction": "Add a faint reflection of the window on the mug’s glossy surface and make the steam subtly drift toward the cooler window side, consistent with the new cloudy lighting and without changing the pose.",
+        "reference_image": "images/Chain-of-Editing/sample_76_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "type": "Long",
+    "original_t2i_prompt": "A photorealistic scene of a small garden pond with lily pads and a stone edge, midday sun, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_77_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the time to early morning with soft mist above the pond.",
+        "reference_image": "images/Chain-of-Editing/sample_77_1.jpg"
+      },
+      {
+        "instruction": "Add a single koi fish visible beneath the water surface.",
+        "reference_image": "images/Chain-of-Editing/sample_77_2.jpg"
+      },
+      {
+        "instruction": "Add a wooden footbridge crossing one corner of the pond.",
+        "reference_image": "images/Chain-of-Editing/sample_77_3.jpg"
+      },
+      {
+        "instruction": "Create gentle concentric ripples that originate exactly where the koi fish is closest to the surface and make the ripples subtly distort the reflection of the wooden footbridge without removing the morning mist.",
+        "reference_image": "images/Chain-of-Editing/sample_77_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "type": "Long",
+    "original_t2i_prompt": "A clean 3D render of a simple living-room scene: a low sofa, a rug, and a coffee table, neutral colors, soft ambient light, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_78_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the rug to a bold geometric pattern in muted tones.",
+        "reference_image": "images/Chain-of-Editing/sample_78_1.jpg"
+      },
+      {
+        "instruction": "Add a stack of three books on the coffee table (blank covers).",
+        "reference_image": "images/Chain-of-Editing/sample_78_2.jpg"
+      },
+      {
+        "instruction": "Add a tall houseplant in the corner near the sofa.",
+        "reference_image": "images/Chain-of-Editing/sample_78_3.jpg"
+      },
+      {
+        "instruction": "Add a soft shadow of the houseplant leaves that falls across the geometric rug pattern and partially over the book stack, ensuring the shadow edges and direction match the ambient lighting and do not obscure the rug’s pattern unnaturally.",
+        "reference_image": "images/Chain-of-Editing/sample_78_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "type": "Long",
+    "original_t2i_prompt": "A realistic photo of a bowl of soup on a wooden table with a spoon, soft side light, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_79_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the soup to a tomato soup with a cream swirl on top.",
+        "reference_image": "images/Chain-of-Editing/sample_79_1.jpg"
+      },
+      {
+        "instruction": "Add a slice of toasted bread on a small plate beside the bowl.",
+        "reference_image": "images/Chain-of-Editing/sample_79_2.jpg"
+      },
+      {
+        "instruction": "Change the lighting to candlelit dinner ambience, warm and dim.",
+        "reference_image": "images/Chain-of-Editing/sample_79_3.jpg"
+      },
+      {
+        "instruction": "Add a tiny candle flame reflection on the spoon and a faint warm highlight on the cream swirl that matches the candlelight direction, while keeping the tomato soup color rich but not overly bright.",
+        "reference_image": "images/Chain-of-Editing/sample_79_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "type": "Long",
+    "original_t2i_prompt": "A high-detail 3D render of a sleek desk setup: monitor, keyboard, mouse, and a desk mat on a wooden desk, soft studio lighting, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_83_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the wooden desk surface from warm oak to cool dark walnut while preserving grain realism.",
+        "reference_image": "images/Chain-of-Editing/sample_83_1.jpg"
+      },
+      {
+        "instruction": "Add a ceramic cup with a pencil inside to the left of the keyboard.",
+        "reference_image": "images/Chain-of-Editing/sample_83_2.jpg"
+      },
+      {
+        "instruction": "Turn on the monitor to show a simple abstract wallpaper (no text, no logos).",
+        "reference_image": "images/Chain-of-Editing/sample_83_3.jpg"
+      },
+      {
+        "instruction": "Add a subtle glow from the monitor that softly illuminates the ceramic cup and pencils, and ensure the glow color matches the abstract wallpaper tones without shifting the overall studio light balance.",
+        "reference_image": "images/Chain-of-Editing/sample_83_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "type": "Long",
+    "original_t2i_prompt": "A realistic photo of a snow-covered street in a small town: parked cars, street lamps, and a storefront, overcast winter light, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_86_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Turn on the street lamps with warm light while keeping the overcast winter ambience.",
+        "reference_image": "images/Chain-of-Editing/sample_86_1.jpg"
+      },
+      {
+        "instruction": "Add gentle snowfall with small flakes visible.",
+        "reference_image": "images/Chain-of-Editing/sample_86_2.jpg"
+      },
+      {
+        "instruction": "Add a small red sled leaning against a storefront wall.",
+        "reference_image": "images/Chain-of-Editing/sample_86_3.jpg"
+      },
+      {
+        "instruction": "Create warm lamp light pools on the snow that subtly reveal falling flakes only within the lit areas, and add a faint warm reflection on the red sled’s surface consistent with the nearest lamp.",
+        "reference_image": "images/Chain-of-Editing/sample_86_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "type": "Long",
+    "original_t2i_prompt": "A photorealistic indoor scene of a wooden dresser with a round mirror, a small jewelry dish, and a perfume bottle, soft daylight, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_91_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the daylight to warm bedside lamp light, keeping the dresser and objects.",
+        "reference_image": "images/Chain-of-Editing/sample_91_1.jpg"
+      },
+      {
+        "instruction": "Replace the jewelry dish with a small velvet ring box, open.",
+        "reference_image": "images/Chain-of-Editing/sample_91_2.jpg"
+      },
+      {
+        "instruction": "Change the perfume bottle to a faceted glass bottle while keeping its position.",
+        "reference_image": "images/Chain-of-Editing/sample_91_3.jpg"
+      },
+      {
+        "instruction": "Add a tiny sparkle highlight on one facet edge of the glass perfume bottle that also faintly appears as a reflected glint on the open velvet ring box interior, consistent with the warm lamp direction.",
+        "reference_image": "images/Chain-of-Editing/sample_91_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "type": "Long",
+    "original_t2i_prompt": "A high-detail 3D render of a futuristic hallway with glossy floor, clean white walls, and ceiling strip lights, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_93_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the wall color from white to pale blue while keeping the glossy floor unchanged.",
+        "reference_image": "images/Chain-of-Editing/sample_93_1.jpg"
+      },
+      {
+        "instruction": "Add a floating holographic signage panel mid-hall (no readable text, abstract icons only).",
+        "reference_image": "images/Chain-of-Editing/sample_93_2.jpg"
+      },
+      {
+        "instruction": "Dim the ceiling strip lights slightly to make the hologram more prominent.",
+        "reference_image": "images/Chain-of-Editing/sample_93_3.jpg"
+      },
+      {
+        "instruction": "Make the hologram cast a subtle colored reflection on the glossy floor that fades with distance, and ensure the dimmed strip lights still produce consistent specular highlights along the floor edges.",
+        "reference_image": "images/Chain-of-Editing/sample_93_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "type": "Long",
+    "original_t2i_prompt": "A realistic photo of a wooden workbench with tools: a hammer, nails, measuring tape, and a piece of sanded wood, workshop lighting, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_94_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Add a pair of safety goggles on the bench.",
+        "reference_image": "images/Chain-of-Editing/sample_94_1.jpg"
+      },
+      {
+        "instruction": "Change the workshop lighting to a single strong overhead light, increasing contrast.",
+        "reference_image": "images/Chain-of-Editing/sample_94_2.jpg"
+      },
+      {
+        "instruction": "Add light sawdust scattered across the bench.",
+        "reference_image": "images/Chain-of-Editing/sample_94_3.jpg"
+      },
+      {
+        "instruction": "Add a clear swept-clean arc in the sawdust that suggests the goggles were moved into place, and ensure the arc shadowing matches the strong overhead light without moving any tools.",
+        "reference_image": "images/Chain-of-Editing/sample_94_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "type": "Long",
+    "original_t2i_prompt": "A realistic photo of a bicycle parked against a white wall, midday sun, sharp shadows, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_96_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the scene to late afternoon with warmer light and longer shadows.",
+        "reference_image": "images/Chain-of-Editing/sample_96_1.jpg"
+      },
+      {
+        "instruction": "Add a small basket on the front of the bicycle.",
+        "reference_image": "images/Chain-of-Editing/sample_96_2.jpg"
+      },
+      {
+        "instruction": "Place a bouquet of wildflowers inside the basket.",
+        "reference_image": "images/Chain-of-Editing/sample_96_3.jpg"
+      },
+      {
+        "instruction": "Add a thin translucent plastic wrap around the bouquet that catches the warm light with small specular highlights, and ensure the wrap slightly distorts the wildflowers beneath without altering the bicycle position.",
+        "reference_image": "images/Chain-of-Editing/sample_96_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "type": "Long",
+    "original_t2i_prompt": "A photorealistic close-up of a hand holding a bouquet of tulips, outdoor daylight, blurred background, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_98_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the tulip colors to a mix of pale pink and white while keeping bouquet shape.",
+        "reference_image": "images/Chain-of-Editing/sample_98_1.jpg"
+      },
+      {
+        "instruction": "Add a thin satin ribbon tied around the stems, light gray.",
+        "reference_image": "images/Chain-of-Editing/sample_98_2.jpg"
+      },
+      {
+        "instruction": "Change the lighting to golden hour with warmer tones.",
+        "reference_image": "images/Chain-of-Editing/sample_98_3.jpg"
+      },
+      {
+        "instruction": "Add a small dew droplet on one pale pink petal that reflects the warm golden-hour light and slightly magnifies the petal texture beneath, keeping depth of field consistent.",
+        "reference_image": "images/Chain-of-Editing/sample_98_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "type": "Long",
+    "original_t2i_prompt": "A realistic street photo of a small bookstore window display: stacked books (no readable titles), a small desk lamp, and a plant, daytime light, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_100_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the scene to nighttime with the desk lamp turned on warm inside the display.",
+        "reference_image": "images/Chain-of-Editing/sample_100_1.jpg"
+      },
+      {
+        "instruction": "Add raindrops on the outside of the window glass.",
+        "reference_image": "images/Chain-of-Editing/sample_100_2.jpg"
+      },
+      {
+        "instruction": "Add a small handwritten price tag card (blank, no text) leaning against one stack.",
+        "reference_image": "images/Chain-of-Editing/sample_100_3.jpg"
+      },
+      {
+        "instruction": "Make the warm lamp light refract through several raindrops so that tiny warm highlights appear on the outer glass surface, and ensure the blank price tag remains blank while still receiving believable warm illumination.",
+        "reference_image": "images/Chain-of-Editing/sample_100_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "type": "Long",
+    "original_t2i_prompt": "A watercolor illustration of a small harbor with boats, wooden docks, and distant hills under clear daylight, paper texture, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_84_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the clear daylight to foggy morning with muted colors, keeping watercolor style.",
+        "reference_image": "images/Chain-of-Editing/sample_84_1.jpg"
+      },
+      {
+        "instruction": "Add a small red buoy near the nearest dock.",
+        "reference_image": "images/Chain-of-Editing/sample_84_2.jpg"
+      },
+      {
+        "instruction": "Add a single seagull flying above the boats.",
+        "reference_image": "images/Chain-of-Editing/sample_84_3.jpg"
+      },
+      {
+        "instruction": "Make the red buoy appear slightly more saturated than the rest due to being closer, and add a faint mirrored hint of the buoy color on the foggy water surface while preserving watercolor softness.",
+        "reference_image": "images/Chain-of-Editing/sample_84_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "type": "Long",
+    "original_t2i_prompt": "A stylized poster design of a rocket launching (generic), bold shapes, limited colors, clean typography placeholders (no real words), 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_75_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the palette to two-tone: deep indigo and cream, preserving the bold shapes.",
+        "reference_image": "images/Chain-of-Editing/sample_75_1.jpg"
+      },
+      {
+        "instruction": "Add a circular moon behind the rocket silhouette.",
+        "reference_image": "images/Chain-of-Editing/sample_75_2.jpg"
+      },
+      {
+        "instruction": "Add subtle screen-print texture across the poster.",
+        "reference_image": "images/Chain-of-Editing/sample_75_3.jpg"
+      },
+      {
+        "instruction": "Add a thin cream-colored outline around the rocket and ensure the outline thickness varies slightly where the screen-print texture would cause ink bleed, without adding any readable text.",
+        "reference_image": "images/Chain-of-Editing/sample_75_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "type": "Long",
+    "original_t2i_prompt": "A photorealistic scene of a small modern bathroom: white subway tiles, a round mirror, a sink with chrome faucet, and a folded towel on the counter. Soft neutral lighting, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_61_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the subway tiles from white to pale sage green while keeping grout lines consistent.",
+        "reference_image": "images/Chain-of-Editing/sample_61_1.jpg"
+      },
+      {
+        "instruction": "Replace the folded towel with a rolled towel of the same size and placement.",
+        "reference_image": "images/Chain-of-Editing/sample_61_2.jpg"
+      },
+      {
+        "instruction": "Add a small amber glass soap dispenser next to the faucet.",
+        "reference_image": "images/Chain-of-Editing/sample_61_3.jpg"
+      },
+      {
+        "instruction": "Fog up the mirror slightly as if from a hot shower, but keep a clear swipe mark that reveals the reflection of the newly added amber soap dispenser and the sage tiles, with believable condensation patterns and lighting.",
+        "reference_image": "images/Chain-of-Editing/sample_61_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "type": "Long",
+    "original_t2i_prompt": "A realistic interior photo of a small dining table with two chairs, a simple table runner, and a vase, daylight, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_99_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the table runner color to deep forest green with a woven texture.",
+        "reference_image": "images/Chain-of-Editing/sample_99_1.jpg"
+      },
+      {
+        "instruction": "Add two wine glasses on the table (empty, clear glass).",
+        "reference_image": "images/Chain-of-Editing/sample_99_2.jpg"
+      },
+      {
+        "instruction": "Change the daylight to candlelit evening ambience with warm tones.",
+        "reference_image": "images/Chain-of-Editing/sample_99_3.jpg"
+      },
+      {
+        "instruction": "Add a single small candle in the center and ensure its warm flame creates distinct highlights in both wine glasses and a subtle warm gradient on the green runner, without making the room overly bright.",
+        "reference_image": "images/Chain-of-Editing/sample_99_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "type": "Long",
+    "original_t2i_prompt": "A fantasy illustration of a library with towering bookshelves and a spiral staircase, warm candlelight ambiance, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_72_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Replace the candlelight with cool moonlight entering from a tall arched window, keeping the library layout.",
+        "reference_image": "images/Chain-of-Editing/sample_72_1.jpg"
+      },
+      {
+        "instruction": "Add a floating open book near the staircase.",
+        "reference_image": "images/Chain-of-Editing/sample_72_2.jpg"
+      },
+      {
+        "instruction": "Add small glowing dust motes in the air.",
+        "reference_image": "images/Chain-of-Editing/sample_72_3.jpg"
+      },
+      {
+        "instruction": "Make the floating book cast a soft, moving-like shadow onto the staircase steps (still image) consistent with the moonlight direction, and have the dust motes glow more strongly only where moonlight beams pass through the window.",
+        "reference_image": "images/Chain-of-Editing/sample_72_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "type": "Long",
+    "original_t2i_prompt": "A cinematic photo of a person standing on a rooftop looking at a distant skyline, windy atmosphere, late afternoon light. Realistic, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_62_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the time of day to night with city lights turned on in the skyline.",
+        "reference_image": "images/Chain-of-Editing/sample_62_1.jpg"
+      },
+      {
+        "instruction": "Add a long dark trench coat on the person, fluttering slightly in the wind.",
+        "reference_image": "images/Chain-of-Editing/sample_62_2.jpg"
+      },
+      {
+        "instruction": "Add a glowing moon partially behind thin clouds.",
+        "reference_image": "images/Chain-of-Editing/sample_62_3.jpg"
+      },
+      {
+        "instruction": "Make the moonlight create a cool edge highlight along the trench coat’s windward folds while keeping the skyline lights warm, and ensure the color temperature contrast looks physically consistent without changing the pose.",
+        "reference_image": "images/Chain-of-Editing/sample_62_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "type": "Long",
+    "original_t2i_prompt": "A photorealistic portrait of a musician holding an acoustic guitar in a studio, neutral background, soft key light, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_85_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the guitar body finish to glossy black while keeping its shape and strings.",
+        "reference_image": "images/Chain-of-Editing/sample_85_1.jpg"
+      },
+      {
+        "instruction": "Add a simple patterned strap over the shoulder (no logos).",
+        "reference_image": "images/Chain-of-Editing/sample_85_2.jpg"
+      },
+      {
+        "instruction": "Change the background to a darker gradient while keeping the same lighting on the face.",
+        "reference_image": "images/Chain-of-Editing/sample_85_3.jpg"
+      },
+      {
+        "instruction": "Add subtle studio light reflections along the glossy black guitar curve that also include a faint mirrored hint of the patterned strap, without altering the musician’s pose or facial lighting.",
+        "reference_image": "images/Chain-of-Editing/sample_85_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "type": "Long",
+    "original_t2i_prompt": "A stylized comic-panel illustration of a detective in a trench coat standing in an alley, bold ink lines, limited color palette, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_90_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the palette to mostly black, cream, and muted red accents.",
+        "reference_image": "images/Chain-of-Editing/sample_90_1.jpg"
+      },
+      {
+        "instruction": "Add a streetlamp overhead casting a hard-edged shadow.",
+        "reference_image": "images/Chain-of-Editing/sample_90_2.jpg"
+      },
+      {
+        "instruction": "Add a small puddle on the ground near the detective’s feet.",
+        "reference_image": "images/Chain-of-Editing/sample_90_3.jpg"
+      },
+      {
+        "instruction": "Make the puddle reflect the streetlamp and a partial silhouette of the detective, with the reflection broken by a single ripple ring, all in the same comic inking style and limited palette.",
+        "reference_image": "images/Chain-of-Editing/sample_90_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "type": "Long",
+    "original_t2i_prompt": "A bright, crisp photo of a tennis court with a net, no people, midday sun, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_68_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the lighting to late afternoon with longer shadows.",
+        "reference_image": "images/Chain-of-Editing/sample_68_1.jpg"
+      },
+      {
+        "instruction": "Add a single tennis racket leaning against the net post.",
+        "reference_image": "images/Chain-of-Editing/sample_68_2.jpg"
+      },
+      {
+        "instruction": "Add a tennis ball resting near the racket.",
+        "reference_image": "images/Chain-of-Editing/sample_68_3.jpg"
+      },
+      {
+        "instruction": "Add a thin layer of court dust on the tennis ball and make a short scuff trail behind it that aligns with the late-afternoon shadow direction, without moving the racket or altering the net.",
+        "reference_image": "images/Chain-of-Editing/sample_68_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "type": "Long",
+    "original_t2i_prompt": "A bright daytime photo of a beach with gentle waves, a striped beach towel on sand, and a straw hat, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_92_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the time to late afternoon with warmer light and longer shadows.",
+        "reference_image": "images/Chain-of-Editing/sample_92_1.jpg"
+      },
+      {
+        "instruction": "Add a paperback book on the beach towel (blank cover).",
+        "reference_image": "images/Chain-of-Editing/sample_92_2.jpg"
+      },
+      {
+        "instruction": "Add a pair of sunglasses resting on the straw hat.",
+        "reference_image": "images/Chain-of-Editing/sample_92_3.jpg"
+      },
+      {
+        "instruction": "Add a thin layer of sand grains on the sunglasses lenses that catch the warm light and cast tiny micro-shadows, while keeping the book cover blank and the beach shadows consistent.",
+        "reference_image": "images/Chain-of-Editing/sample_92_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "type": "Long",
+    "original_t2i_prompt": "A realistic photo of a campsite at dusk: a tent, a campfire area (unlit), pine trees silhouetted, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_70_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Light the campfire with warm flames and subtle smoke.",
+        "reference_image": "images/Chain-of-Editing/sample_70_1.jpg"
+      },
+      {
+        "instruction": "Add a metal kettle hanging over the fire on a small tripod.",
+        "reference_image": "images/Chain-of-Editing/sample_70_2.jpg"
+      },
+      {
+        "instruction": "Change the sky to show faint stars emerging while keeping dusk light.",
+        "reference_image": "images/Chain-of-Editing/sample_70_3.jpg"
+      },
+      {
+        "instruction": "Make the kettle show a warm firelight reflection that flickers across its curved surface (as a still image effect) and add a tiny plume of steam from the kettle spout that blends naturally with the campfire smoke.",
+        "reference_image": "images/Chain-of-Editing/sample_70_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "type": "Long",
+    "original_t2i_prompt": "A realistic close-up photo of a stainless steel sink with a faucet, water droplets visible, bathroom tiles in background, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_89_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the background tiles to dark matte charcoal while keeping grout consistent.",
+        "reference_image": "images/Chain-of-Editing/sample_89_1.jpg"
+      },
+      {
+        "instruction": "Add a pink sponge resting on the sink edge.",
+        "reference_image": "images/Chain-of-Editing/sample_89_2.jpg"
+      },
+      {
+        "instruction": "Change the faucet finish from stainless steel to brushed brass.",
+        "reference_image": "images/Chain-of-Editing/sample_89_3.jpg"
+      },
+      {
+        "instruction": "Add a faint reflection of the pink sponge on the brushed brass faucet that is slightly distorted by existing water droplets, preserving droplet positions and realism.",
+        "reference_image": "images/Chain-of-Editing/sample_89_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "type": "Long",
+    "original_t2i_prompt": "A stylized oil painting of a vase of flowers on a table with a window behind, thick brush strokes, warm tones, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_95_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the flower arrangement to include more white lilies and fewer red flowers, keeping the same painterly style.",
+        "reference_image": "images/Chain-of-Editing/sample_95_1.jpg"
+      },
+      {
+        "instruction": "Change the time to evening with deeper shadows.",
+        "reference_image": "images/Chain-of-Editing/sample_95_2.jpg"
+      },
+      {
+        "instruction": "Add a small brass candlestick on the table, unlit.",
+        "reference_image": "images/Chain-of-Editing/sample_95_3.jpg"
+      },
+      {
+        "instruction": "Light the candlestick and paint a warm flicker highlight on the brass and the nearest lily petals that respects the thick brush strokes, without brightening the whole canvas or changing composition.",
+        "reference_image": "images/Chain-of-Editing/sample_95_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "type": "Long",
+    "original_t2i_prompt": "A cute hand-drawn cartoon of a kitchen counter with a mixing bowl, flour, and a whisk. Simple lines, pastel colors, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_69_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the scene to include a tray of freshly baked cookies on the counter.",
+        "reference_image": "images/Chain-of-Editing/sample_69_1.jpg"
+      },
+      {
+        "instruction": "Add a small cartoon mouse peeking from behind the mixing bowl.",
+        "reference_image": "images/Chain-of-Editing/sample_69_2.jpg"
+      },
+      {
+        "instruction": "Change the pastel palette to warmer tones (more peach and honey) while keeping line art identical.",
+        "reference_image": "images/Chain-of-Editing/sample_69_3.jpg"
+      },
+      {
+        "instruction": "Add a tiny cookie crumb on the mouse’s nose and make the mouse’s eyes glance toward the cookie tray, preserving the same warm-tone cartoon style and line thickness.",
+        "reference_image": "images/Chain-of-Editing/sample_69_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "type": "Long",
+    "original_t2i_prompt": "A realistic urban daytime photo of a small balcony with a chair, a tiny table, and potted plants. Bright sunlight, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_80_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the scene to nighttime with string lights turned on along the balcony railing.",
+        "reference_image": "images/Chain-of-Editing/sample_80_1.jpg"
+      },
+      {
+        "instruction": "Replace the chair with a hanging wicker egg chair, same position.",
+        "reference_image": "images/Chain-of-Editing/sample_80_2.jpg"
+      },
+      {
+        "instruction": "Add a small cup of tea on the tiny table with visible steam.",
+        "reference_image": "images/Chain-of-Editing/sample_80_3.jpg"
+      },
+      {
+        "instruction": "Make the string lights create tiny warm specular highlights on the wicker egg chair weave and add a subtle shimmering reflection on the tea surface, ensuring the steam remains visible but softly lit only by the string lights.",
+        "reference_image": "images/Chain-of-Editing/sample_80_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "type": "Long",
+    "original_t2i_prompt": "A photorealistic kitchen scene with a wooden dining table: a clear glass vase with green stems, a bowl of oranges, and a folded newspaper. Midday daylight from a window, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_81_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the midday light to late afternoon warm light coming from the same window.",
+        "reference_image": "images/Chain-of-Editing/sample_81_1.jpg"
+      },
+      {
+        "instruction": "Replace the bowl of oranges with a bowl of green apples, same bowl and position.",
+        "reference_image": "images/Chain-of-Editing/sample_81_2.jpg"
+      },
+      {
+        "instruction": "Add a ceramic teapot near the newspaper, matte white.",
+        "reference_image": "images/Chain-of-Editing/sample_81_3.jpg"
+      },
+      {
+        "instruction": "Add a faint warm window reflection on the teapot that also picks up a subtle green tint from the apples, and ensure the reflection shape matches the teapot curvature without changing any object placement.",
+        "reference_image": "images/Chain-of-Editing/sample_81_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "type": "Long",
+    "original_t2i_prompt": "A photorealistic outdoor scene of a wooden pier extending into a calm lake, early morning light, slight haze, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_88_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the calm lake to gentle ripples while keeping the pier unchanged.",
+        "reference_image": "images/Chain-of-Editing/sample_88_1.jpg"
+      },
+      {
+        "instruction": "Add a small lantern sitting on the pier near the foreground, unlit.",
+        "reference_image": "images/Chain-of-Editing/sample_88_2.jpg"
+      },
+      {
+        "instruction": "Change the lighting to dusk with cooler tones.",
+        "reference_image": "images/Chain-of-Editing/sample_88_3.jpg"
+      },
+      {
+        "instruction": "Light the lantern with a warm flame and ensure its warm reflection breaks across the lake ripples near the pier, while the rest of the scene stays cool dusk-toned.",
+        "reference_image": "images/Chain-of-Editing/sample_88_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "type": "Long",
+    "original_t2i_prompt": "A clean flat-design illustration of a weather app screen (generic): icons, temperature placeholders, and a weekly strip, no real city names, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_97_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Switch the app theme from blue to dark charcoal with bright accent colors.",
+        "reference_image": "images/Chain-of-Editing/sample_97_1.jpg"
+      },
+      {
+        "instruction": "Change the main icon from sunny to rainy (simple icon style).",
+        "reference_image": "images/Chain-of-Editing/sample_97_2.jpg"
+      },
+      {
+        "instruction": "Add a small toggle switch UI element near the top (no text label).",
+        "reference_image": "images/Chain-of-Editing/sample_97_3.jpg"
+      },
+      {
+        "instruction": "Make the toggle appear in the ON position and add a subtle accent-color glow around it that matches the rainy icon accent, while keeping the flat UI style and avoiding any readable city names.",
+        "reference_image": "images/Chain-of-Editing/sample_97_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "type": "Long",
+    "original_t2i_prompt": "A photorealistic close-up of a cappuccino in a white cup on a saucer, latte art heart, cafe table background blur, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_67_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the latte art from a heart to a rosette pattern.",
+        "reference_image": "images/Chain-of-Editing/sample_67_1.jpg"
+      },
+      {
+        "instruction": "Add a small cinnamon shaker in the background, slightly out of focus.",
+        "reference_image": "images/Chain-of-Editing/sample_67_2.jpg"
+      },
+      {
+        "instruction": "Change the cup from white to matte black while keeping the coffee surface visible.",
+        "reference_image": "images/Chain-of-Editing/sample_67_3.jpg"
+      },
+      {
+        "instruction": "Sprinkle a light dusting of cinnamon that lands partially on the rosette foam pattern and partially on the matte black rim, making the particle sizes and focus match the shallow depth of field.",
+        "reference_image": "images/Chain-of-Editing/sample_67_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "type": "Long",
+    "original_t2i_prompt": "A clean isometric illustration of a small office room: desk, chair, bookshelf, and window, flat colors, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_87_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the time to nighttime by making the window dark and adding a warm desk lamp turned on.",
+        "reference_image": "images/Chain-of-Editing/sample_87_1.jpg"
+      },
+      {
+        "instruction": "Add a coffee mug on the desk.",
+        "reference_image": "images/Chain-of-Editing/sample_87_2.jpg"
+      },
+      {
+        "instruction": "Add a small plant on the bookshelf.",
+        "reference_image": "images/Chain-of-Editing/sample_87_3.jpg"
+      },
+      {
+        "instruction": "Add a soft warm lamp glow that spills onto the mug and the nearest book spines, but keep the plant mostly unlit except for a tiny rim highlight, preserving the flat isometric style.",
+        "reference_image": "images/Chain-of-Editing/sample_87_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "type": "Long",
+    "original_t2i_prompt": "A realistic rainy city street at night with storefronts, wet pavement reflections, and a bus stop shelter. Neon accents, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_82_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the neon accents to predominantly amber and teal.",
+        "reference_image": "images/Chain-of-Editing/sample_82_1.jpg"
+      },
+      {
+        "instruction": "Add a person holding a transparent umbrella standing inside the bus stop shelter.",
+        "reference_image": "images/Chain-of-Editing/sample_82_2.jpg"
+      },
+      {
+        "instruction": "Add a small advertising poster panel inside the shelter with abstract shapes only (no text).",
+        "reference_image": "images/Chain-of-Editing/sample_82_3.jpg"
+      },
+      {
+        "instruction": "Make raindrops visible on the transparent umbrella and have the amber-teal neon reflect on the droplets, while keeping the person’s silhouette readable and the poster still abstract and textless.",
+        "reference_image": "images/Chain-of-Editing/sample_82_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "Medium",
+    "original_t2i_prompt": "A street-style full-body photo of a young adult man wearing a gray hoodie and black jeans, standing beside a brick wall covered with subtle graffiti. Overcast daylight, realistic film grain, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_2_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the gray hoodie to a deep green bomber jacket with a matte texture.",
+        "reference_image": "images/Chain-of-Editing/sample_2_1.jpg"
+      },
+      {
+        "instruction": "Add a skateboard leaning against the wall near his right foot.",
+        "reference_image": "images/Chain-of-Editing/sample_2_2.jpg"
+      },
+      {
+        "instruction": "Make the bomber jacket slightly wet as if from a light drizzle, and add tiny water droplets on the skateboard grip tape while keeping the overcast mood and ensuring the droplets reflect the graffiti colors subtly.",
+        "reference_image": "images/Chain-of-Editing/sample_2_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "type": "Medium",
+    "original_t2i_prompt": "A top-down photo of a tidy desk: a closed silver laptop, a spiral notebook, a black pen, and a small succulent in a pot. Neutral daylight, realistic, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_5_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Open the notebook and show neat bullet-point notes on the right page (no brand names).",
+        "reference_image": "images/Chain-of-Editing/sample_5_1.jpg"
+      },
+      {
+        "instruction": "Change the black pen to a translucent fountain pen with blue ink visible inside.",
+        "reference_image": "images/Chain-of-Editing/sample_5_2.jpg"
+      },
+      {
+        "instruction": "Add a fresh ink smudge that matches the fountain pen’s blue ink on the notebook margin, and make sure it looks like it could have been made by the pen’s nib angle relative to the notebook orientation.",
+        "reference_image": "images/Chain-of-Editing/sample_5_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "type": "Medium",
+    "original_t2i_prompt": "A wide shot of a mountain lake with mirror-like reflections, pine trees along the shore, clear sky. Photorealistic landscape, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_7_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the clear sky to a dramatic sky with scattered pink clouds at dawn.",
+        "reference_image": "images/Chain-of-Editing/sample_7_1.jpg"
+      },
+      {
+        "instruction": "Add a small wooden canoe near the left foreground on the water.",
+        "reference_image": "images/Chain-of-Editing/sample_7_2.jpg"
+      },
+      {
+        "instruction": "Place a folded red jacket inside the canoe and ensure its color appears subtly in the lake reflection, but only distorted by the gentle ripples introduced by the canoe.",
+        "reference_image": "images/Chain-of-Editing/sample_7_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "type": "Medium",
+    "original_t2i_prompt": "A modern living room interior: light oak floor, a gray sofa, a round coffee table, and a large abstract painting on the wall. Soft daylight from the left, photorealistic, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_10_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Replace the gray sofa with a deep blue velvet sofa of the same shape.",
+        "reference_image": "images/Chain-of-Editing/sample_10_1.jpg"
+      },
+      {
+        "instruction": "Change the abstract painting into a black-and-white minimalist line drawing in a thin frame.",
+        "reference_image": "images/Chain-of-Editing/sample_10_2.jpg"
+      },
+      {
+        "instruction": "Add a folded mustard-yellow throw blanket on the blue velvet sofa and ensure the blanket’s color subtly reflects onto the velvet pile and the nearby oak floor with realistic light behavior.",
+        "reference_image": "images/Chain-of-Editing/sample_10_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "type": "Medium",
+    "original_t2i_prompt": "A fantasy oil painting of a medieval market street with lanterns, merchants, and cobblestones. Rich brush strokes, warm atmosphere, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_11_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Make it nighttime while keeping the warm lantern glow as the main light source.",
+        "reference_image": "images/Chain-of-Editing/sample_11_1.jpg"
+      },
+      {
+        "instruction": "Add a small stall selling colorful spices in the foreground.",
+        "reference_image": "images/Chain-of-Editing/sample_11_2.jpg"
+      },
+      {
+        "instruction": "Introduce a gentle mist that thickens toward the far end of the street, and make the lantern glow scatter through it while keeping the spice colors vivid only under direct lantern light.",
+        "reference_image": "images/Chain-of-Editing/sample_11_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "type": "Medium",
+    "original_t2i_prompt": "A realistic night photo of a city street with neon signs, wet pavement reflecting lights, and a few distant pedestrians. 35mm film look, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_14_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the neon signs color palette to mostly cyan and magenta, keeping the night mood.",
+        "reference_image": "images/Chain-of-Editing/sample_14_1.jpg"
+      },
+      {
+        "instruction": "Add a parked bicycle in the right foreground.",
+        "reference_image": "images/Chain-of-Editing/sample_14_2.jpg"
+      },
+      {
+        "instruction": "Add a small puddle directly beneath the bicycle that reflects the cyan-magenta neon, and ensure the reflection is broken by tiny ripples as if a light breeze just passed.",
+        "reference_image": "images/Chain-of-Editing/sample_14_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "type": "Medium",
+    "original_t2i_prompt": "A high-detail 3D render of a futuristic motorcycle in a clean showroom, glossy floor reflections, neutral lighting, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_16_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the motorcycle body color from black to pearl white with subtle iridescence.",
+        "reference_image": "images/Chain-of-Editing/sample_16_1.jpg"
+      },
+      {
+        "instruction": "Add a transparent HUD-style hologram display hovering near the handlebars.",
+        "reference_image": "images/Chain-of-Editing/sample_16_2.jpg"
+      },
+      {
+        "instruction": "Make the hologram cast a faint colored glow onto the pearl white bodywork and the glossy floor, but only where it is physically close, preserving the showroom’s neutral lighting elsewhere.",
+        "reference_image": "images/Chain-of-Editing/sample_16_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "type": "Medium",
+    "original_t2i_prompt": "A close-up food photo of a ramen bowl: noodles, sliced egg, green onions, and steam rising. Warm restaurant lighting, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_17_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Replace the sliced egg with two soft-boiled egg halves showing a runny yolk.",
+        "reference_image": "images/Chain-of-Editing/sample_17_1.jpg"
+      },
+      {
+        "instruction": "Add a pair of wooden chopsticks resting on the rim of the bowl.",
+        "reference_image": "images/Chain-of-Editing/sample_17_2.jpg"
+      },
+      {
+        "instruction": "Add a tiny droplet of broth clinging to the chopsticks that reflects the warm light and slightly distorts the view of the noodles behind it, keeping the steam natural.",
+        "reference_image": "images/Chain-of-Editing/sample_17_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "type": "Medium",
+    "original_t2i_prompt": "A photorealistic close-up portrait of a young adult wearing a plain black beanie and a denim jacket, neutral studio background, softbox lighting, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_19_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the denim jacket to a tan suede jacket with visible nap texture.",
+        "reference_image": "images/Chain-of-Editing/sample_19_1.jpg"
+      },
+      {
+        "instruction": "Add a thin silver chain necklace peeking above the collar.",
+        "reference_image": "images/Chain-of-Editing/sample_19_2.jpg"
+      },
+      {
+        "instruction": "Add subtle lint fibers on the suede jacket that catch the softbox light differently than the nap, and ensure the silver chain reflects the same light angle without changing the face or beanie.",
+        "reference_image": "images/Chain-of-Editing/sample_19_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "type": "Medium",
+    "original_t2i_prompt": "A stylized anime scene of a high school classroom with desks, windows, and afternoon sunlight beams. Clean line art, soft shading, 1024x1024 resolution",
+    "original_image": "images/Chain-of-Editing/sample_21_0.jpg",
+    "edit_steps": [
+      {
+        "instruction": "Change the afternoon sunlight to early evening orange light coming from the same windows.",
+        "reference_image": "images/Chain-of-Editing/sample_21_1.jpg"
+      },
+      {
+        "instruction": "Add a paper airplane resting on the nearest desk.",
+        "reference_image": "images/Chain-of-Editing/sample_21_2.jpg"
+      },
+      {
+        "instruction": "Make the paper airplane cast a crisp shadow that matches the new orange light direction and add a faint glow edge on the airplane’s top folds, preserving the anime shading style.",
+        "reference_image": "images/Chain-of-Editing/sample_21_3.jpg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2852 @@
+[
+  {
+    "id": 263,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "color_adjustment",
+      "object": "scene",
+      "from": "daytime",
+      "to": "nighttime"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000287.png",
+        "output": "images/I2I/sample_000287.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000369.png",
+        "output": "images/I2I/sample_000369.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000380.png",
+        "output": "images/I2I/sample_000380.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000402.png",
+        "output": "images/I2I/sample_000402.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000448.png",
+        "output": "images/I2I/sample_000448.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000474.png",
+        "output": "images/I2I/sample_000474.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000542.png",
+        "output": "images/I2I/sample_000542.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000713.png",
+        "output": "images/I2I/sample_000713.png",
+        "instruction": "Apply color adjustment to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000263.png",
+      "output": "images/I2I/sample_000263.png",
+      "instruction": "Apply color adjustment to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 173,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "style_transfer",
+      "object": "scene",
+      "from": "realistic",
+      "to": "vibrant watercolor"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000329.png",
+        "output": "images/I2I/sample_000329.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000399.png",
+        "output": "images/I2I/sample_000399.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000567.png",
+        "output": "images/I2I/sample_000567.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000610.png",
+        "output": "images/I2I/sample_000610.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000810.png",
+        "output": "images/I2I/sample_000810.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000938.png",
+        "output": "images/I2I/sample_000938.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000945.png",
+        "output": "images/I2I/sample_000945.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000983.png",
+        "output": "images/I2I/sample_000983.png",
+        "instruction": "Apply style transfer to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000173.png",
+      "output": "images/I2I/sample_000173.png",
+      "instruction": "Apply style transfer to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 82,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "weather_atmosphere",
+      "object": "scene",
+      "from": "daytime",
+      "to": "rainy evening"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000714.png",
+        "output": "images/I2I/sample_000714.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000723.png",
+        "output": "images/I2I/sample_000723.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000762.png",
+        "output": "images/I2I/sample_000762.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000890.png",
+        "output": "images/I2I/sample_000890.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001322.png",
+        "output": "images/I2I/sample_001322.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001484.png",
+        "output": "images/I2I/sample_001484.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001843.png",
+        "output": "images/I2I/sample_001843.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_002109.png",
+        "output": "images/I2I/sample_002109.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000082.png",
+      "output": "images/I2I/sample_000082.png",
+      "instruction": "Apply weather atmosphere to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 74,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "background_change",
+      "object": "background",
+      "from": "original background",
+      "to": "futuristic cityscape at night"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_002855.png",
+        "output": "images/I2I/sample_002855.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_004448.png",
+        "output": "images/I2I/sample_004448.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_005166.png",
+        "output": "images/I2I/sample_005166.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_087876.png",
+        "output": "images/I2I/sample_087876.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_087925.png",
+        "output": "images/I2I/sample_087925.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088252.png",
+        "output": "images/I2I/sample_088252.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088420.png",
+        "output": "images/I2I/sample_088420.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088907.png",
+        "output": "images/I2I/sample_088907.png",
+        "instruction": "Apply background change to the background."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000074.png",
+      "output": "images/I2I/sample_000074.png",
+      "instruction": "Apply background change to the background while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 87757,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "clothing_modification",
+      "object": "suit",
+      "from": "suit",
+      "to": "vibrant red suit"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_090109.png",
+        "output": "images/I2I/sample_090109.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_091074.png",
+        "output": "images/I2I/sample_091074.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_092273.png",
+        "output": "images/I2I/sample_092273.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_093712.png",
+        "output": "images/I2I/sample_093712.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_095850.png",
+        "output": "images/I2I/sample_095850.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097320.png",
+        "output": "images/I2I/sample_097320.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097423.png",
+        "output": "images/I2I/sample_097423.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097681.png",
+        "output": "images/I2I/sample_097681.png",
+        "instruction": "Apply clothing modification to the suit."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_087757.png",
+      "output": "images/I2I/sample_087757.png",
+      "instruction": "Apply clothing modification to the suit while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 88047,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "object_modification",
+      "object": "room",
+      "from": "empty",
+      "to": "cozy reading nook"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_098068.png",
+        "output": "images/I2I/sample_098068.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_099292.png",
+        "output": "images/I2I/sample_099292.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_101420.png",
+        "output": "images/I2I/sample_101420.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_102071.png",
+        "output": "images/I2I/sample_102071.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_104321.png",
+        "output": "images/I2I/sample_104321.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_106971.png",
+        "output": "images/I2I/sample_106971.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_112400.png",
+        "output": "images/I2I/sample_112400.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_112793.png",
+        "output": "images/I2I/sample_112793.png",
+        "instruction": "Apply object modification to the room."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_088047.png",
+      "output": "images/I2I/sample_088047.png",
+      "instruction": "Apply object modification to the room while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 287,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "color_adjustment",
+      "object": "scene",
+      "from": "daytime",
+      "to": "nighttime"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000263.png",
+        "output": "images/I2I/sample_000263.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000369.png",
+        "output": "images/I2I/sample_000369.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000380.png",
+        "output": "images/I2I/sample_000380.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000402.png",
+        "output": "images/I2I/sample_000402.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000448.png",
+        "output": "images/I2I/sample_000448.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000474.png",
+        "output": "images/I2I/sample_000474.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000542.png",
+        "output": "images/I2I/sample_000542.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000713.png",
+        "output": "images/I2I/sample_000713.png",
+        "instruction": "Apply color adjustment to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000287.png",
+      "output": "images/I2I/sample_000287.png",
+      "instruction": "Apply color adjustment to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 329,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "style_transfer",
+      "object": "scene",
+      "from": "realistic",
+      "to": "vibrant watercolor"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000173.png",
+        "output": "images/I2I/sample_000173.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000399.png",
+        "output": "images/I2I/sample_000399.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000567.png",
+        "output": "images/I2I/sample_000567.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000610.png",
+        "output": "images/I2I/sample_000610.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000810.png",
+        "output": "images/I2I/sample_000810.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000938.png",
+        "output": "images/I2I/sample_000938.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000945.png",
+        "output": "images/I2I/sample_000945.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000983.png",
+        "output": "images/I2I/sample_000983.png",
+        "instruction": "Apply style transfer to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000329.png",
+      "output": "images/I2I/sample_000329.png",
+      "instruction": "Apply style transfer to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 714,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "weather_atmosphere",
+      "object": "scene",
+      "from": "daytime",
+      "to": "rainy evening"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000082.png",
+        "output": "images/I2I/sample_000082.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000723.png",
+        "output": "images/I2I/sample_000723.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000762.png",
+        "output": "images/I2I/sample_000762.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000890.png",
+        "output": "images/I2I/sample_000890.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001322.png",
+        "output": "images/I2I/sample_001322.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001484.png",
+        "output": "images/I2I/sample_001484.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001843.png",
+        "output": "images/I2I/sample_001843.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_002109.png",
+        "output": "images/I2I/sample_002109.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000714.png",
+      "output": "images/I2I/sample_000714.png",
+      "instruction": "Apply weather atmosphere to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 2855,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "background_change",
+      "object": "background",
+      "from": "original background",
+      "to": "futuristic cityscape at night"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000074.png",
+        "output": "images/I2I/sample_000074.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_004448.png",
+        "output": "images/I2I/sample_004448.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_005166.png",
+        "output": "images/I2I/sample_005166.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_087876.png",
+        "output": "images/I2I/sample_087876.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_087925.png",
+        "output": "images/I2I/sample_087925.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088252.png",
+        "output": "images/I2I/sample_088252.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088420.png",
+        "output": "images/I2I/sample_088420.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088907.png",
+        "output": "images/I2I/sample_088907.png",
+        "instruction": "Apply background change to the background."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_002855.png",
+      "output": "images/I2I/sample_002855.png",
+      "instruction": "Apply background change to the background while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 90109,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "clothing_modification",
+      "object": "suit",
+      "from": "suit",
+      "to": "vibrant red suit"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_087757.png",
+        "output": "images/I2I/sample_087757.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_091074.png",
+        "output": "images/I2I/sample_091074.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_092273.png",
+        "output": "images/I2I/sample_092273.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_093712.png",
+        "output": "images/I2I/sample_093712.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_095850.png",
+        "output": "images/I2I/sample_095850.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097320.png",
+        "output": "images/I2I/sample_097320.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097423.png",
+        "output": "images/I2I/sample_097423.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097681.png",
+        "output": "images/I2I/sample_097681.png",
+        "instruction": "Apply clothing modification to the suit."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_090109.png",
+      "output": "images/I2I/sample_090109.png",
+      "instruction": "Apply clothing modification to the suit while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 98068,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "object_modification",
+      "object": "room",
+      "from": "empty",
+      "to": "cozy reading nook"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_088047.png",
+        "output": "images/I2I/sample_088047.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_099292.png",
+        "output": "images/I2I/sample_099292.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_101420.png",
+        "output": "images/I2I/sample_101420.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_102071.png",
+        "output": "images/I2I/sample_102071.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_104321.png",
+        "output": "images/I2I/sample_104321.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_106971.png",
+        "output": "images/I2I/sample_106971.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_112400.png",
+        "output": "images/I2I/sample_112400.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_112793.png",
+        "output": "images/I2I/sample_112793.png",
+        "instruction": "Apply object modification to the room."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_098068.png",
+      "output": "images/I2I/sample_098068.png",
+      "instruction": "Apply object modification to the room while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 369,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "color_adjustment",
+      "object": "scene",
+      "from": "daytime",
+      "to": "nighttime"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000263.png",
+        "output": "images/I2I/sample_000263.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000287.png",
+        "output": "images/I2I/sample_000287.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000380.png",
+        "output": "images/I2I/sample_000380.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000402.png",
+        "output": "images/I2I/sample_000402.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000448.png",
+        "output": "images/I2I/sample_000448.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000474.png",
+        "output": "images/I2I/sample_000474.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000542.png",
+        "output": "images/I2I/sample_000542.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000713.png",
+        "output": "images/I2I/sample_000713.png",
+        "instruction": "Apply color adjustment to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000369.png",
+      "output": "images/I2I/sample_000369.png",
+      "instruction": "Apply color adjustment to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 399,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "style_transfer",
+      "object": "scene",
+      "from": "realistic",
+      "to": "vibrant watercolor"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000173.png",
+        "output": "images/I2I/sample_000173.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000329.png",
+        "output": "images/I2I/sample_000329.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000567.png",
+        "output": "images/I2I/sample_000567.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000610.png",
+        "output": "images/I2I/sample_000610.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000810.png",
+        "output": "images/I2I/sample_000810.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000938.png",
+        "output": "images/I2I/sample_000938.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000945.png",
+        "output": "images/I2I/sample_000945.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000983.png",
+        "output": "images/I2I/sample_000983.png",
+        "instruction": "Apply style transfer to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000399.png",
+      "output": "images/I2I/sample_000399.png",
+      "instruction": "Apply style transfer to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 723,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "weather_atmosphere",
+      "object": "scene",
+      "from": "daytime",
+      "to": "rainy evening"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000082.png",
+        "output": "images/I2I/sample_000082.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000714.png",
+        "output": "images/I2I/sample_000714.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000762.png",
+        "output": "images/I2I/sample_000762.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000890.png",
+        "output": "images/I2I/sample_000890.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001322.png",
+        "output": "images/I2I/sample_001322.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001484.png",
+        "output": "images/I2I/sample_001484.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001843.png",
+        "output": "images/I2I/sample_001843.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_002109.png",
+        "output": "images/I2I/sample_002109.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000723.png",
+      "output": "images/I2I/sample_000723.png",
+      "instruction": "Apply weather atmosphere to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 4448,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "background_change",
+      "object": "background",
+      "from": "original background",
+      "to": "futuristic cityscape at night"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000074.png",
+        "output": "images/I2I/sample_000074.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_002855.png",
+        "output": "images/I2I/sample_002855.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_005166.png",
+        "output": "images/I2I/sample_005166.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_087876.png",
+        "output": "images/I2I/sample_087876.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_087925.png",
+        "output": "images/I2I/sample_087925.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088252.png",
+        "output": "images/I2I/sample_088252.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088420.png",
+        "output": "images/I2I/sample_088420.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088907.png",
+        "output": "images/I2I/sample_088907.png",
+        "instruction": "Apply background change to the background."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_004448.png",
+      "output": "images/I2I/sample_004448.png",
+      "instruction": "Apply background change to the background while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 91074,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "clothing_modification",
+      "object": "suit",
+      "from": "suit",
+      "to": "vibrant red suit"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_087757.png",
+        "output": "images/I2I/sample_087757.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_090109.png",
+        "output": "images/I2I/sample_090109.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_092273.png",
+        "output": "images/I2I/sample_092273.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_093712.png",
+        "output": "images/I2I/sample_093712.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_095850.png",
+        "output": "images/I2I/sample_095850.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097320.png",
+        "output": "images/I2I/sample_097320.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097423.png",
+        "output": "images/I2I/sample_097423.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097681.png",
+        "output": "images/I2I/sample_097681.png",
+        "instruction": "Apply clothing modification to the suit."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_091074.png",
+      "output": "images/I2I/sample_091074.png",
+      "instruction": "Apply clothing modification to the suit while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 99292,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "object_modification",
+      "object": "room",
+      "from": "empty",
+      "to": "cozy reading nook"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_088047.png",
+        "output": "images/I2I/sample_088047.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_098068.png",
+        "output": "images/I2I/sample_098068.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_101420.png",
+        "output": "images/I2I/sample_101420.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_102071.png",
+        "output": "images/I2I/sample_102071.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_104321.png",
+        "output": "images/I2I/sample_104321.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_106971.png",
+        "output": "images/I2I/sample_106971.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_112400.png",
+        "output": "images/I2I/sample_112400.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_112793.png",
+        "output": "images/I2I/sample_112793.png",
+        "instruction": "Apply object modification to the room."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_099292.png",
+      "output": "images/I2I/sample_099292.png",
+      "instruction": "Apply object modification to the room while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 380,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "color_adjustment",
+      "object": "scene",
+      "from": "daytime",
+      "to": "nighttime"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000263.png",
+        "output": "images/I2I/sample_000263.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000287.png",
+        "output": "images/I2I/sample_000287.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000369.png",
+        "output": "images/I2I/sample_000369.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000402.png",
+        "output": "images/I2I/sample_000402.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000448.png",
+        "output": "images/I2I/sample_000448.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000474.png",
+        "output": "images/I2I/sample_000474.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000542.png",
+        "output": "images/I2I/sample_000542.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000713.png",
+        "output": "images/I2I/sample_000713.png",
+        "instruction": "Apply color adjustment to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000380.png",
+      "output": "images/I2I/sample_000380.png",
+      "instruction": "Apply color adjustment to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 567,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "style_transfer",
+      "object": "scene",
+      "from": "realistic",
+      "to": "vibrant watercolor"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000173.png",
+        "output": "images/I2I/sample_000173.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000329.png",
+        "output": "images/I2I/sample_000329.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000399.png",
+        "output": "images/I2I/sample_000399.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000610.png",
+        "output": "images/I2I/sample_000610.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000810.png",
+        "output": "images/I2I/sample_000810.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000938.png",
+        "output": "images/I2I/sample_000938.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000945.png",
+        "output": "images/I2I/sample_000945.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000983.png",
+        "output": "images/I2I/sample_000983.png",
+        "instruction": "Apply style transfer to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000567.png",
+      "output": "images/I2I/sample_000567.png",
+      "instruction": "Apply style transfer to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 762,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "weather_atmosphere",
+      "object": "scene",
+      "from": "daytime",
+      "to": "rainy evening"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000082.png",
+        "output": "images/I2I/sample_000082.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000714.png",
+        "output": "images/I2I/sample_000714.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000723.png",
+        "output": "images/I2I/sample_000723.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000890.png",
+        "output": "images/I2I/sample_000890.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001322.png",
+        "output": "images/I2I/sample_001322.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001484.png",
+        "output": "images/I2I/sample_001484.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001843.png",
+        "output": "images/I2I/sample_001843.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_002109.png",
+        "output": "images/I2I/sample_002109.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000762.png",
+      "output": "images/I2I/sample_000762.png",
+      "instruction": "Apply weather atmosphere to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 5166,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "background_change",
+      "object": "background",
+      "from": "original background",
+      "to": "futuristic cityscape at night"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000074.png",
+        "output": "images/I2I/sample_000074.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_002855.png",
+        "output": "images/I2I/sample_002855.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_004448.png",
+        "output": "images/I2I/sample_004448.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_087876.png",
+        "output": "images/I2I/sample_087876.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_087925.png",
+        "output": "images/I2I/sample_087925.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088252.png",
+        "output": "images/I2I/sample_088252.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088420.png",
+        "output": "images/I2I/sample_088420.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088907.png",
+        "output": "images/I2I/sample_088907.png",
+        "instruction": "Apply background change to the background."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_005166.png",
+      "output": "images/I2I/sample_005166.png",
+      "instruction": "Apply background change to the background while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 92273,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "clothing_modification",
+      "object": "suit",
+      "from": "suit",
+      "to": "vibrant red suit"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_087757.png",
+        "output": "images/I2I/sample_087757.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_090109.png",
+        "output": "images/I2I/sample_090109.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_091074.png",
+        "output": "images/I2I/sample_091074.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_093712.png",
+        "output": "images/I2I/sample_093712.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_095850.png",
+        "output": "images/I2I/sample_095850.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097320.png",
+        "output": "images/I2I/sample_097320.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097423.png",
+        "output": "images/I2I/sample_097423.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097681.png",
+        "output": "images/I2I/sample_097681.png",
+        "instruction": "Apply clothing modification to the suit."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_092273.png",
+      "output": "images/I2I/sample_092273.png",
+      "instruction": "Apply clothing modification to the suit while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 101420,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "object_modification",
+      "object": "room",
+      "from": "empty",
+      "to": "cozy reading nook"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_088047.png",
+        "output": "images/I2I/sample_088047.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_098068.png",
+        "output": "images/I2I/sample_098068.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_099292.png",
+        "output": "images/I2I/sample_099292.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_102071.png",
+        "output": "images/I2I/sample_102071.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_104321.png",
+        "output": "images/I2I/sample_104321.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_106971.png",
+        "output": "images/I2I/sample_106971.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_112400.png",
+        "output": "images/I2I/sample_112400.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_112793.png",
+        "output": "images/I2I/sample_112793.png",
+        "instruction": "Apply object modification to the room."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_101420.png",
+      "output": "images/I2I/sample_101420.png",
+      "instruction": "Apply object modification to the room while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 402,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "color_adjustment",
+      "object": "scene",
+      "from": "daytime",
+      "to": "nighttime"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000263.png",
+        "output": "images/I2I/sample_000263.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000287.png",
+        "output": "images/I2I/sample_000287.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000369.png",
+        "output": "images/I2I/sample_000369.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000380.png",
+        "output": "images/I2I/sample_000380.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000448.png",
+        "output": "images/I2I/sample_000448.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000474.png",
+        "output": "images/I2I/sample_000474.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000542.png",
+        "output": "images/I2I/sample_000542.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000713.png",
+        "output": "images/I2I/sample_000713.png",
+        "instruction": "Apply color adjustment to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000402.png",
+      "output": "images/I2I/sample_000402.png",
+      "instruction": "Apply color adjustment to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 610,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "style_transfer",
+      "object": "scene",
+      "from": "realistic",
+      "to": "vibrant watercolor"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000173.png",
+        "output": "images/I2I/sample_000173.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000329.png",
+        "output": "images/I2I/sample_000329.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000399.png",
+        "output": "images/I2I/sample_000399.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000567.png",
+        "output": "images/I2I/sample_000567.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000810.png",
+        "output": "images/I2I/sample_000810.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000938.png",
+        "output": "images/I2I/sample_000938.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000945.png",
+        "output": "images/I2I/sample_000945.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000983.png",
+        "output": "images/I2I/sample_000983.png",
+        "instruction": "Apply style transfer to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000610.png",
+      "output": "images/I2I/sample_000610.png",
+      "instruction": "Apply style transfer to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 890,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "weather_atmosphere",
+      "object": "scene",
+      "from": "daytime",
+      "to": "rainy evening"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000082.png",
+        "output": "images/I2I/sample_000082.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000714.png",
+        "output": "images/I2I/sample_000714.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000723.png",
+        "output": "images/I2I/sample_000723.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000762.png",
+        "output": "images/I2I/sample_000762.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001322.png",
+        "output": "images/I2I/sample_001322.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001484.png",
+        "output": "images/I2I/sample_001484.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001843.png",
+        "output": "images/I2I/sample_001843.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_002109.png",
+        "output": "images/I2I/sample_002109.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000890.png",
+      "output": "images/I2I/sample_000890.png",
+      "instruction": "Apply weather atmosphere to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 87876,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "background_change",
+      "object": "background",
+      "from": "original background",
+      "to": "futuristic cityscape at night"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000074.png",
+        "output": "images/I2I/sample_000074.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_002855.png",
+        "output": "images/I2I/sample_002855.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_004448.png",
+        "output": "images/I2I/sample_004448.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_005166.png",
+        "output": "images/I2I/sample_005166.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_087925.png",
+        "output": "images/I2I/sample_087925.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088252.png",
+        "output": "images/I2I/sample_088252.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088420.png",
+        "output": "images/I2I/sample_088420.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088907.png",
+        "output": "images/I2I/sample_088907.png",
+        "instruction": "Apply background change to the background."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_087876.png",
+      "output": "images/I2I/sample_087876.png",
+      "instruction": "Apply background change to the background while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 93712,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "clothing_modification",
+      "object": "suit",
+      "from": "suit",
+      "to": "vibrant red suit"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_087757.png",
+        "output": "images/I2I/sample_087757.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_090109.png",
+        "output": "images/I2I/sample_090109.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_091074.png",
+        "output": "images/I2I/sample_091074.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_092273.png",
+        "output": "images/I2I/sample_092273.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_095850.png",
+        "output": "images/I2I/sample_095850.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097320.png",
+        "output": "images/I2I/sample_097320.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097423.png",
+        "output": "images/I2I/sample_097423.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097681.png",
+        "output": "images/I2I/sample_097681.png",
+        "instruction": "Apply clothing modification to the suit."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_093712.png",
+      "output": "images/I2I/sample_093712.png",
+      "instruction": "Apply clothing modification to the suit while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 102071,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "object_modification",
+      "object": "room",
+      "from": "empty",
+      "to": "cozy reading nook"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_088047.png",
+        "output": "images/I2I/sample_088047.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_098068.png",
+        "output": "images/I2I/sample_098068.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_099292.png",
+        "output": "images/I2I/sample_099292.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_101420.png",
+        "output": "images/I2I/sample_101420.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_104321.png",
+        "output": "images/I2I/sample_104321.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_106971.png",
+        "output": "images/I2I/sample_106971.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_112400.png",
+        "output": "images/I2I/sample_112400.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_112793.png",
+        "output": "images/I2I/sample_112793.png",
+        "instruction": "Apply object modification to the room."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_102071.png",
+      "output": "images/I2I/sample_102071.png",
+      "instruction": "Apply object modification to the room while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 448,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "color_adjustment",
+      "object": "scene",
+      "from": "daytime",
+      "to": "nighttime"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000263.png",
+        "output": "images/I2I/sample_000263.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000287.png",
+        "output": "images/I2I/sample_000287.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000369.png",
+        "output": "images/I2I/sample_000369.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000380.png",
+        "output": "images/I2I/sample_000380.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000402.png",
+        "output": "images/I2I/sample_000402.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000474.png",
+        "output": "images/I2I/sample_000474.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000542.png",
+        "output": "images/I2I/sample_000542.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000713.png",
+        "output": "images/I2I/sample_000713.png",
+        "instruction": "Apply color adjustment to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000448.png",
+      "output": "images/I2I/sample_000448.png",
+      "instruction": "Apply color adjustment to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 810,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "style_transfer",
+      "object": "scene",
+      "from": "realistic",
+      "to": "vibrant watercolor"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000173.png",
+        "output": "images/I2I/sample_000173.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000329.png",
+        "output": "images/I2I/sample_000329.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000399.png",
+        "output": "images/I2I/sample_000399.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000567.png",
+        "output": "images/I2I/sample_000567.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000610.png",
+        "output": "images/I2I/sample_000610.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000938.png",
+        "output": "images/I2I/sample_000938.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000945.png",
+        "output": "images/I2I/sample_000945.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000983.png",
+        "output": "images/I2I/sample_000983.png",
+        "instruction": "Apply style transfer to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000810.png",
+      "output": "images/I2I/sample_000810.png",
+      "instruction": "Apply style transfer to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 1322,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "weather_atmosphere",
+      "object": "scene",
+      "from": "daytime",
+      "to": "rainy evening"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000082.png",
+        "output": "images/I2I/sample_000082.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000714.png",
+        "output": "images/I2I/sample_000714.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000723.png",
+        "output": "images/I2I/sample_000723.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000762.png",
+        "output": "images/I2I/sample_000762.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000890.png",
+        "output": "images/I2I/sample_000890.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001484.png",
+        "output": "images/I2I/sample_001484.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001843.png",
+        "output": "images/I2I/sample_001843.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_002109.png",
+        "output": "images/I2I/sample_002109.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_001322.png",
+      "output": "images/I2I/sample_001322.png",
+      "instruction": "Apply weather atmosphere to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 87925,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "background_change",
+      "object": "background",
+      "from": "original background",
+      "to": "futuristic cityscape at night"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000074.png",
+        "output": "images/I2I/sample_000074.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_002855.png",
+        "output": "images/I2I/sample_002855.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_004448.png",
+        "output": "images/I2I/sample_004448.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_005166.png",
+        "output": "images/I2I/sample_005166.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_087876.png",
+        "output": "images/I2I/sample_087876.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088252.png",
+        "output": "images/I2I/sample_088252.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088420.png",
+        "output": "images/I2I/sample_088420.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088907.png",
+        "output": "images/I2I/sample_088907.png",
+        "instruction": "Apply background change to the background."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_087925.png",
+      "output": "images/I2I/sample_087925.png",
+      "instruction": "Apply background change to the background while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 95850,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "clothing_modification",
+      "object": "suit",
+      "from": "suit",
+      "to": "vibrant red suit"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_087757.png",
+        "output": "images/I2I/sample_087757.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_090109.png",
+        "output": "images/I2I/sample_090109.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_091074.png",
+        "output": "images/I2I/sample_091074.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_092273.png",
+        "output": "images/I2I/sample_092273.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_093712.png",
+        "output": "images/I2I/sample_093712.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097320.png",
+        "output": "images/I2I/sample_097320.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097423.png",
+        "output": "images/I2I/sample_097423.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097681.png",
+        "output": "images/I2I/sample_097681.png",
+        "instruction": "Apply clothing modification to the suit."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_095850.png",
+      "output": "images/I2I/sample_095850.png",
+      "instruction": "Apply clothing modification to the suit while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 104321,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "object_modification",
+      "object": "room",
+      "from": "empty",
+      "to": "cozy reading nook"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_088047.png",
+        "output": "images/I2I/sample_088047.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_098068.png",
+        "output": "images/I2I/sample_098068.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_099292.png",
+        "output": "images/I2I/sample_099292.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_101420.png",
+        "output": "images/I2I/sample_101420.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_102071.png",
+        "output": "images/I2I/sample_102071.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_106971.png",
+        "output": "images/I2I/sample_106971.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_112400.png",
+        "output": "images/I2I/sample_112400.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_112793.png",
+        "output": "images/I2I/sample_112793.png",
+        "instruction": "Apply object modification to the room."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_104321.png",
+      "output": "images/I2I/sample_104321.png",
+      "instruction": "Apply object modification to the room while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 474,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "color_adjustment",
+      "object": "scene",
+      "from": "daytime",
+      "to": "nighttime"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000263.png",
+        "output": "images/I2I/sample_000263.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000287.png",
+        "output": "images/I2I/sample_000287.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000369.png",
+        "output": "images/I2I/sample_000369.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000380.png",
+        "output": "images/I2I/sample_000380.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000402.png",
+        "output": "images/I2I/sample_000402.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000448.png",
+        "output": "images/I2I/sample_000448.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000542.png",
+        "output": "images/I2I/sample_000542.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000713.png",
+        "output": "images/I2I/sample_000713.png",
+        "instruction": "Apply color adjustment to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000474.png",
+      "output": "images/I2I/sample_000474.png",
+      "instruction": "Apply color adjustment to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 938,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "style_transfer",
+      "object": "scene",
+      "from": "realistic",
+      "to": "vibrant watercolor"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000173.png",
+        "output": "images/I2I/sample_000173.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000329.png",
+        "output": "images/I2I/sample_000329.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000399.png",
+        "output": "images/I2I/sample_000399.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000567.png",
+        "output": "images/I2I/sample_000567.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000610.png",
+        "output": "images/I2I/sample_000610.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000810.png",
+        "output": "images/I2I/sample_000810.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000945.png",
+        "output": "images/I2I/sample_000945.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000983.png",
+        "output": "images/I2I/sample_000983.png",
+        "instruction": "Apply style transfer to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000938.png",
+      "output": "images/I2I/sample_000938.png",
+      "instruction": "Apply style transfer to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 1484,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "weather_atmosphere",
+      "object": "scene",
+      "from": "daytime",
+      "to": "rainy evening"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000082.png",
+        "output": "images/I2I/sample_000082.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000714.png",
+        "output": "images/I2I/sample_000714.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000723.png",
+        "output": "images/I2I/sample_000723.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000762.png",
+        "output": "images/I2I/sample_000762.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000890.png",
+        "output": "images/I2I/sample_000890.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001322.png",
+        "output": "images/I2I/sample_001322.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001843.png",
+        "output": "images/I2I/sample_001843.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_002109.png",
+        "output": "images/I2I/sample_002109.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_001484.png",
+      "output": "images/I2I/sample_001484.png",
+      "instruction": "Apply weather atmosphere to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 88252,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "background_change",
+      "object": "background",
+      "from": "original background",
+      "to": "futuristic cityscape at night"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000074.png",
+        "output": "images/I2I/sample_000074.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_002855.png",
+        "output": "images/I2I/sample_002855.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_004448.png",
+        "output": "images/I2I/sample_004448.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_005166.png",
+        "output": "images/I2I/sample_005166.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_087876.png",
+        "output": "images/I2I/sample_087876.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_087925.png",
+        "output": "images/I2I/sample_087925.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088420.png",
+        "output": "images/I2I/sample_088420.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088907.png",
+        "output": "images/I2I/sample_088907.png",
+        "instruction": "Apply background change to the background."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_088252.png",
+      "output": "images/I2I/sample_088252.png",
+      "instruction": "Apply background change to the background while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 97320,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "clothing_modification",
+      "object": "suit",
+      "from": "suit",
+      "to": "vibrant red suit"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_087757.png",
+        "output": "images/I2I/sample_087757.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_090109.png",
+        "output": "images/I2I/sample_090109.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_091074.png",
+        "output": "images/I2I/sample_091074.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_092273.png",
+        "output": "images/I2I/sample_092273.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_093712.png",
+        "output": "images/I2I/sample_093712.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_095850.png",
+        "output": "images/I2I/sample_095850.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097423.png",
+        "output": "images/I2I/sample_097423.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097681.png",
+        "output": "images/I2I/sample_097681.png",
+        "instruction": "Apply clothing modification to the suit."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_097320.png",
+      "output": "images/I2I/sample_097320.png",
+      "instruction": "Apply clothing modification to the suit while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 106971,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "object_modification",
+      "object": "room",
+      "from": "empty",
+      "to": "cozy reading nook"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_088047.png",
+        "output": "images/I2I/sample_088047.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_098068.png",
+        "output": "images/I2I/sample_098068.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_099292.png",
+        "output": "images/I2I/sample_099292.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_101420.png",
+        "output": "images/I2I/sample_101420.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_102071.png",
+        "output": "images/I2I/sample_102071.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_104321.png",
+        "output": "images/I2I/sample_104321.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_112400.png",
+        "output": "images/I2I/sample_112400.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_112793.png",
+        "output": "images/I2I/sample_112793.png",
+        "instruction": "Apply object modification to the room."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_106971.png",
+      "output": "images/I2I/sample_106971.png",
+      "instruction": "Apply object modification to the room while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 542,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "color_adjustment",
+      "object": "scene",
+      "from": "daytime",
+      "to": "nighttime"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000263.png",
+        "output": "images/I2I/sample_000263.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000287.png",
+        "output": "images/I2I/sample_000287.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000369.png",
+        "output": "images/I2I/sample_000369.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000380.png",
+        "output": "images/I2I/sample_000380.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000402.png",
+        "output": "images/I2I/sample_000402.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000448.png",
+        "output": "images/I2I/sample_000448.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000474.png",
+        "output": "images/I2I/sample_000474.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000713.png",
+        "output": "images/I2I/sample_000713.png",
+        "instruction": "Apply color adjustment to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000542.png",
+      "output": "images/I2I/sample_000542.png",
+      "instruction": "Apply color adjustment to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 945,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "style_transfer",
+      "object": "scene",
+      "from": "realistic",
+      "to": "vibrant watercolor"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000173.png",
+        "output": "images/I2I/sample_000173.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000329.png",
+        "output": "images/I2I/sample_000329.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000399.png",
+        "output": "images/I2I/sample_000399.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000567.png",
+        "output": "images/I2I/sample_000567.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000610.png",
+        "output": "images/I2I/sample_000610.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000810.png",
+        "output": "images/I2I/sample_000810.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000938.png",
+        "output": "images/I2I/sample_000938.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000983.png",
+        "output": "images/I2I/sample_000983.png",
+        "instruction": "Apply style transfer to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000945.png",
+      "output": "images/I2I/sample_000945.png",
+      "instruction": "Apply style transfer to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 1843,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "weather_atmosphere",
+      "object": "scene",
+      "from": "daytime",
+      "to": "rainy evening"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000082.png",
+        "output": "images/I2I/sample_000082.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000714.png",
+        "output": "images/I2I/sample_000714.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000723.png",
+        "output": "images/I2I/sample_000723.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000762.png",
+        "output": "images/I2I/sample_000762.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000890.png",
+        "output": "images/I2I/sample_000890.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001322.png",
+        "output": "images/I2I/sample_001322.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_001484.png",
+        "output": "images/I2I/sample_001484.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      },
+      {
+        "input": "images/T2I/sample_002109.png",
+        "output": "images/I2I/sample_002109.png",
+        "instruction": "Apply weather atmosphere to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_001843.png",
+      "output": "images/I2I/sample_001843.png",
+      "instruction": "Apply weather atmosphere to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 88420,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "background_change",
+      "object": "background",
+      "from": "original background",
+      "to": "futuristic cityscape at night"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000074.png",
+        "output": "images/I2I/sample_000074.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_002855.png",
+        "output": "images/I2I/sample_002855.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_004448.png",
+        "output": "images/I2I/sample_004448.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_005166.png",
+        "output": "images/I2I/sample_005166.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_087876.png",
+        "output": "images/I2I/sample_087876.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_087925.png",
+        "output": "images/I2I/sample_087925.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088252.png",
+        "output": "images/I2I/sample_088252.png",
+        "instruction": "Apply background change to the background."
+      },
+      {
+        "input": "images/T2I/sample_088907.png",
+        "output": "images/I2I/sample_088907.png",
+        "instruction": "Apply background change to the background."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_088420.png",
+      "output": "images/I2I/sample_088420.png",
+      "instruction": "Apply background change to the background while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 97423,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "clothing_modification",
+      "object": "suit",
+      "from": "suit",
+      "to": "vibrant red suit"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_087757.png",
+        "output": "images/I2I/sample_087757.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_090109.png",
+        "output": "images/I2I/sample_090109.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_091074.png",
+        "output": "images/I2I/sample_091074.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_092273.png",
+        "output": "images/I2I/sample_092273.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_093712.png",
+        "output": "images/I2I/sample_093712.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_095850.png",
+        "output": "images/I2I/sample_095850.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097320.png",
+        "output": "images/I2I/sample_097320.png",
+        "instruction": "Apply clothing modification to the suit."
+      },
+      {
+        "input": "images/T2I/sample_097681.png",
+        "output": "images/I2I/sample_097681.png",
+        "instruction": "Apply clothing modification to the suit."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_097423.png",
+      "output": "images/I2I/sample_097423.png",
+      "instruction": "Apply clothing modification to the suit while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 112400,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "object_modification",
+      "object": "room",
+      "from": "empty",
+      "to": "cozy reading nook"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_088047.png",
+        "output": "images/I2I/sample_088047.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_098068.png",
+        "output": "images/I2I/sample_098068.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_099292.png",
+        "output": "images/I2I/sample_099292.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_101420.png",
+        "output": "images/I2I/sample_101420.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_102071.png",
+        "output": "images/I2I/sample_102071.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_104321.png",
+        "output": "images/I2I/sample_104321.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_106971.png",
+        "output": "images/I2I/sample_106971.png",
+        "instruction": "Apply object modification to the room."
+      },
+      {
+        "input": "images/T2I/sample_112793.png",
+        "output": "images/I2I/sample_112793.png",
+        "instruction": "Apply object modification to the room."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_112400.png",
+      "output": "images/I2I/sample_112400.png",
+      "instruction": "Apply object modification to the room while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 713,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "color_adjustment",
+      "object": "scene",
+      "from": "daytime",
+      "to": "nighttime"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000263.png",
+        "output": "images/I2I/sample_000263.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000287.png",
+        "output": "images/I2I/sample_000287.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000369.png",
+        "output": "images/I2I/sample_000369.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000380.png",
+        "output": "images/I2I/sample_000380.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000402.png",
+        "output": "images/I2I/sample_000402.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000448.png",
+        "output": "images/I2I/sample_000448.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000474.png",
+        "output": "images/I2I/sample_000474.png",
+        "instruction": "Apply color adjustment to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000542.png",
+        "output": "images/I2I/sample_000542.png",
+        "instruction": "Apply color adjustment to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000713.png",
+      "output": "images/I2I/sample_000713.png",
+      "instruction": "Apply color adjustment to the scene while following the same type of transformation as demonstrated above."
+    }
+  },
+  {
+    "id": 983,
+    "task_name": "input_output",
+    "intent": {
+      "edit_type": "style_transfer",
+      "object": "scene",
+      "from": "realistic",
+      "to": "vibrant watercolor"
+    },
+    "demo": [
+      {
+        "input": "images/T2I/sample_000173.png",
+        "output": "images/I2I/sample_000173.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000329.png",
+        "output": "images/I2I/sample_000329.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000399.png",
+        "output": "images/I2I/sample_000399.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000567.png",
+        "output": "images/I2I/sample_000567.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000610.png",
+        "output": "images/I2I/sample_000610.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000810.png",
+        "output": "images/I2I/sample_000810.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000938.png",
+        "output": "images/I2I/sample_000938.png",
+        "instruction": "Apply style transfer to the scene."
+      },
+      {
+        "input": "images/T2I/sample_000945.png",
+        "output": "images/I2I/sample_000945.png",
+        "instruction": "Apply style transfer to the scene."
+      }
+    ],
+    "query": {
+      "input": "images/T2I/sample_000983.png",
+      "output": "images/I2I/sample_000983.png",
+      "instruction": "Apply style transfer to the scene while following the same type of transformation as demonstrated above."
+    }
+  }
+]

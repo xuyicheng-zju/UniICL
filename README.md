@@ -35,7 +35,9 @@
   <a href="https://huggingface.co/xuyicheng-zju/UniICL">
     <img src="https://img.shields.io/badge/Hugging%20Face-Model-f9d849?style=flat" alt="Model">
   </a>
-  <img src="https://img.shields.io/badge/Code-Coming%20soon-lightgrey?style=flat" alt="Code coming soon">
+  <a href="UniICL/README.md">
+    <img src="https://img.shields.io/badge/Code-Available-brightgreen?style=flat" alt="Code available">
+  </a>
 </p>
 
 <p align="center">
@@ -46,10 +48,18 @@
   <em>Previous fragmented paradigms isolate modalities and tasks, often suffering from non-monotonic shot scaling. UniICL mitigates this issue through a capability-oriented taxonomy, UniICL-760K, UniICL-Bench, and CAPM.</em>
 </p>
 
-## TODO
+## Release Status
 
-✅ `UniICL-760K` Dataset Released.  
-⏳ Inference & Training code.
+- UniICL model weights: [Hugging Face](https://huggingface.co/xuyicheng-zju/UniICL).
+- `UniICL-760K`: [Hugging Face](https://huggingface.co/datasets/xuyicheng-zju/UniICL-760K) and [`UniICL-760K/`](UniICL-760K/).
+- `UniICL-Bench`: [`UniICL-Bench/`](UniICL-Bench/).
+- Training and inference code: [`UniICL/`](UniICL/).
+
+Large training annotations and image assets are intended to be released through
+the Hugging Face dataset repository rather than committed to the GitHub source
+tree. A source checkout should contain the code, READMEs, benchmark annotation
+files, and dataset conversion/packaging scripts; download the full
+`UniICL-760K` assets from Hugging Face before training or full benchmark runs.
 
 ## Highlights
 
@@ -57,7 +67,7 @@
 - **Unified Multimodal ICL Data and Benchmark.** Guided by this taxonomy, we construct `UniICL-760K`, the first large-scale dataset specifically targeting unified multimodal ICL, comprising 766,868 curated episodes across 15 subtasks. From this collection, we derive `UniICL-Bench`, serving as the first cognitively structured testbed to systematically evaluate multi-dimensional ICL capabilities and stability in up to 8-shot settings.
 - **Context-Adaptive Prototype Modulator.** Standard self-attention mechanisms remain susceptible to cross-modal noise in dense contexts. CAPM explicitly models the input-output relationship within demonstrations, converts raw examples into disentangled dynamic representations, and injects them into the backbone through context-adaptive routing.
 - **Strong Unified Results.** Evaluations on `UniICL-Bench` show that UniICL achieves state-of-the-art performance across unified baselines, and cross-benchmark validation further demonstrates strong generalization beyond the internal benchmark.
-- **Release Status.** Public datasets and model weights are available on Hugging Face. Code is coming soon.
+- **Release Status.** Public datasets, model weights, and training/inference code are available in this release.
 
 ## Data Pipeline
 

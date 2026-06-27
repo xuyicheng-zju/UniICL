@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>UniICL README Preview</title>
+  <style>
+    body {
+      margin: 0;
+      background: #f6f8fa;
+      color: #1f2328;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      line-height: 1.55;
+    }
+    main {
+      max-width: 1040px;
+      margin: 32px auto;
+      padding: 40px 48px;
+      background: #fff;
+      border: 1px solid #d8dee4;
+      border-radius: 8px;
+    }
+    h1, h2, h3 { line-height: 1.25; }
+    h1 { margin: 0; font-size: 2.4rem; }
+    h2 { margin-top: 34px; padding-bottom: 8px; border-bottom: 1px solid #d8dee4; }
+    h3 { color: #57606a; font-weight: 600; }
+    a { color: #0969da; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .center { text-align: center; }
+    .authors { margin: 14px 0; font-size: 1rem; }
+    .badges img { margin: 2px; }
+    .hero, .figure {
+      display: block;
+      max-width: 1000px;
+      width: 100%;
+      margin: 18px auto 8px;
+    }
+    .caption {
+      max-width: 900px;
+      margin: 6px auto 20px;
+      color: #57606a;
+      font-style: italic;
+      text-align: center;
+    }
+    ul { padding-left: 1.45rem; }
+    li { margin: 9px 0; }
+    code {
+      padding: 0.2em 0.4em;
+      background: rgba(175, 184, 193, 0.2);
+      border-radius: 6px;
+      font-size: 85%;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 12px 0 10px;
+      font-size: 0.95rem;
+    }
+    th, td {
+      padding: 8px 10px;
+      border: 1px solid #d0d7de;
+    }
+    th { background: #f6f8fa; }
+    td:nth-child(n+3), th:nth-child(n+3) { text-align: right; }
+    pre {
+      overflow-x: auto;
+      padding: 16px;
+      background: #f6f8fa;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+<main>
+  <section class="center">
+    <h1>UniICL: Systematizing Unified Multimodal In-context Learning through a Capability-Oriented Taxonomy</h1>
+    <p class="authors">
+      <strong>Yicheng Xu<sup>1</sup></strong> &middot;
+      <strong>Jiangning Zhang<sup>1,* ,&dagger;</sup></strong> &middot;
+      <strong>Zhucun Xue<sup>1</sup></strong> &middot;
+      <strong>Teng Hu<sup>2</sup></strong> &middot;
+      <strong>Ran Yi<sup>2</sup></strong> &middot;
+      <strong>Xiaobin Hu<sup>3</sup></strong> &middot;
+      <strong>Yong Liu<sup>1,&dagger;</sup></strong> &middot;
+      <strong>Dacheng Tao<sup>4</sup></strong>
+    </p>
+    <p class="authors">
+      <strong><sup>1</sup>Zhejiang University</strong> &nbsp;&nbsp;
+      <strong><sup>2</sup>Shanghai Jiaotong University</strong> &nbsp;&nbsp;
+      <strong><sup>3</sup>National University of Singapore</strong> &nbsp;&nbsp;
+      <strong><sup>4</sup>Nanyang Technological University</strong>
+    </p>
+    <p class="authors"><sup>*</sup>Equal contributions &nbsp;&nbsp; <sup>&dagger;</sup>Corresponding authors</p>
+    <p class="badges">
+      <a href="https://arxiv.org/abs/2603.24690"><img src="https://img.shields.io/badge/arXiv-2603.24690-b31b1b?style=flat" alt="arXiv"></a>
+      <a href="https://huggingface.co/datasets/xuyicheng-zju/UniICL-760K"><img src="https://img.shields.io/badge/Hugging%20Face-Dataset-f9d849?style=flat" alt="Dataset"></a>
+      <a href="https://huggingface.co/xuyicheng-zju/UniICL"><img src="https://img.shields.io/badge/Hugging%20Face-Model-f9d849?style=flat" alt="Model"></a>
+      <img src="https://img.shields.io/badge/Code-Coming%20soon-lightgrey?style=flat" alt="Code coming soon">
+    </p>
+    <img class="hero" src="assets/teaser.png" alt="UniICL teaser">
+    <p class="caption">Previous fragmented paradigms isolate modalities and tasks, often suffering from non-monotonic shot scaling. UniICL mitigates this issue through a capability-oriented taxonomy, UniICL-760K, UniICL-Bench, and CAPM.</p>
+  </section>
+
+  <h2>TODO</h2>
+  <ul>
+    <li>✅ UniICL model weights.</li>
+    <li>✅ <code>UniICL-760K</code>.</li>
+    <li>✅ <code>UniICL-Bench</code>.</li>
+    <li>⏳ Inference code.</li>
+    <li>⏳ Training code.</li>
+  </ul>
+
+  <h2>Highlights</h2>
+  <ul>
+    <li><strong>Capability-Oriented Taxonomy.</strong> Diagnosing ICL failure modes requires a capability-oriented perspective. We introduce a six-level taxonomy that systematically structures ICL tasks by the functional role of demonstrations: perception, imitation, conception, deduction, analogy, and discernment.</li>
+    <li><strong>Unified Multimodal ICL Data and Benchmark.</strong> Guided by this taxonomy, we construct <code>UniICL-760K</code>, the first large-scale dataset specifically targeting unified multimodal ICL, comprising 766,868 curated episodes across 15 subtasks. From this collection, we derive <code>UniICL-Bench</code>, serving as the first cognitively structured testbed to systematically evaluate multi-dimensional ICL capabilities and stability in up to 8-shot settings.</li>
+    <li><strong>Context-Adaptive Prototype Modulator.</strong> Standard self-attention mechanisms remain susceptible to cross-modal noise in dense contexts. CAPM explicitly models the input-output relationship within demonstrations, converts raw examples into disentangled dynamic representations, and injects them into the backbone through context-adaptive routing.</li>
+    <li><strong>Strong Unified Results.</strong> Evaluations on <code>UniICL-Bench</code> show that UniICL achieves state-of-the-art performance across unified baselines, and cross-benchmark validation further demonstrates strong generalization beyond the internal benchmark.</li>
+    <li><strong>Release Status.</strong> Public datasets and model weights are available on Hugging Face. Code is coming soon.</li>
+  </ul>
+
+  <h2>Data Pipeline</h2>
+  <img class="figure" src="assets/pipeline.png" alt="UniICL data curation pipeline">
+  <p class="caption">UniICL-760K curation pipeline: dense annotation, generative synthesis, quality filtering, and task-aligned demonstration retrieval.</p>
+
+  <h2>Dataset Statistics</h2>
+  <img class="figure" src="assets/dataset_statistics.png" alt="UniICL-760K statistics">
+  <p class="caption">Statistical distributions of UniICL-760K from various perspectives.</p>
+
+  <h2>CAPM</h2>
+  <img class="figure" src="assets/capm.png" alt="CAPM architecture">
+  <p class="caption">CAPM adapts existing Transformer-based models via a four-stage pipeline.</p>
+
+  <h2>Main Results</h2>
+  <img class="figure" src="assets/main_results.png" alt="Aggregated main results">
+  <p class="caption">Aggregated main results across the six capability categories. Pk. denotes peak over 0/1/2/4/8-shot, and Eff. denotes ICL efficiency.</p>
+
+  <h3>ICL Curves</h3>
+  <img class="figure" src="assets/icl_curves.png" alt="k-shot performance curves">
+  <p class="caption">k-shot performance curves for a subset of tasks.</p>
+
+  <h2>Qualitative Visualization</h2>
+  <img class="figure" src="assets/qualitative_results.png" alt="Qualitative generation comparisons">
+  <p class="caption">Qualitative comparison of generative ICL tasks: Fast Concept Generation, Visual Refinement, Analogical Editing, Instructional Generation, and Image Manipulation.</p>
+
+  <h2>Citation</h2>
+  <pre><code>@article{xu2026uniicl,
+  title={UniICL: Systematizing Unified Multimodal In-context Learning through a Capability-Oriented Taxonomy},
+  author={Xu, Yicheng and Zhang, Jiangning and Xue, Zhucun and Hu, Teng and Yi, Ran and Hu, Xiaobin and Liu, Yong and Tao, Dacheng},
+  journal={arXiv preprint arXiv:2603.24690},
+  year={2026}
+}</code></pre>
+</main>
+</body>
+</html>
